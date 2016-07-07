@@ -1,5 +1,9 @@
-.Rproj.user
 .Rhistory
-.RData
-
+*.RData
+*.Rproj*
+.Rproj.user
+/paper/*
+/data/composite.csv
+/toreview/*
+/PLSpredict/*
 *_next.*
